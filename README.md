@@ -8,9 +8,11 @@
 
 From Neural Networks → CNNs → Transformers → Diffusion Models → Model Interpretability
 
-🌐 **Portfolio:** https://bhaskarpal1707.github.io/portfolio/
+[🌐 Live Demo](https://bhaskarpal1707.github.io/NeuralCanvas/)
 
-💼 **LinkedIn:** https://www.linkedin.com/in/bhaskarpal1707/
+🌐 **My Portfolio:** https://bhaskarpal1707.github.io/portfolio/
+
+💼 **My LinkedIn:** https://www.linkedin.com/in/bhaskarpal1707/
 
 ⭐ **Star this Repository if you found it useful!**
 
